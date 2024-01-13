@@ -102,8 +102,8 @@
 #banner .box-right img{
     margin: 0px 10px;
     animation: animation 3s infinite linear;
-    height: 150px;
-    width: 150px;
+    height: 100px;
+    width: 100px;
     border-radius: 20px;
 }
 
