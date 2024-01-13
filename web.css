@@ -13,8 +13,8 @@
     width: 100px;
 }
 #wrapper{
-    width: 100%;
-    height: 100vh;
+    width: 980px;
+    margin: 0 auto;
 }
 #header{
     width: 100%;
