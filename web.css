@@ -178,6 +178,7 @@
     width: 290px;
     height: 500px;
     background: #00ffbf ;
+    border-radius: 15px;
 }
 #list-products .stars img{
     height: 50px;
